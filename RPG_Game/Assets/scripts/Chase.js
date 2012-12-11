@@ -60,6 +60,7 @@ function Update () {
 function moveTowardTarget():void{ 
     var direction : Vector3 = player.position - transform.position;  
     direction.y = 0;
+    this.animation.Play();
     
     // slowly rotate the object toward the target for smooth path
     transform.rotation = Quaternion.Slerp(transform.rotation, Quaternion.LookRotation(direction), rotationSpeed * Time.deltaTime);    

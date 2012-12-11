@@ -1,12 +1,13 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Terrain Assets\Bushes\gui.js">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\bowcollect.js">
     <Files>
-      <File FileName="Assets\Terrain Assets\Bushes\classEvilSmile.js" Line="13" Column="2" />
-      <File FileName="Assets\Terrain Assets\Bushes\classFistPunch.js" Line="7" Column="63" />
-      <File FileName="Assets\Terrain Assets\Bushes\gui.js" Line="25" Column="44" />
-      <File FileName="Assets\scripts\firstaidkitcollect.js" Line="15" Column="23" />
-      <File FileName="Assets\playerStatus.js" Line="3" Column="26" />
+      <File FileName="Assets\scripts\Zombie Attack.js" Line="1" Column="1" />
+      <File FileName="Assets\scripts\enemyStatus.js" Line="3" Column="19" />
+      <File FileName="Assets\scripts\firstaidkitspin.js" Line="21" Column="2" />
+      <File FileName="Assets\scripts\firstaidkitcollect.js" Line="11" Column="1" />
+      <File FileName="Assets\scripts\bow spin.js" Line="1" Column="1" />
+      <File FileName="Assets\scripts\bowcollect.js" Line="6" Column="20" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

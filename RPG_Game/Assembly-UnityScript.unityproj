@@ -44,25 +44,26 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Shooter.js" />
      <Compile Include="Assets\Terrain Assets\Bushes\classEvilSmile.js" />
      <Compile Include="Assets\Terrain Assets\Bushes\classFistPunch.js" />
      <Compile Include="Assets\Terrain Assets\Bushes\classGui.js" />
      <Compile Include="Assets\Terrain Assets\Bushes\gui.js" />
      <Compile Include="Assets\attack.js" />
-     <Compile Include="Assets\bullet.js" />
-     <Compile Include="Assets\playerStatus.js" />
      <Compile Include="Assets\scripts\Chase.js" />
      <Compile Include="Assets\scripts\Patrol.js" />
+     <Compile Include="Assets\scripts\Shooter.js" />
      <Compile Include="Assets\scripts\SwordSwing.js" />
      <Compile Include="Assets\scripts\Swordcollect.js" />
      <Compile Include="Assets\scripts\Zombie Attack.js" />
      <Compile Include="Assets\scripts\bow spin.js" />
      <Compile Include="Assets\scripts\bowcollect.js" />
+     <Compile Include="Assets\scripts\bullet.js" />
+     <Compile Include="Assets\scripts\enemyStatus.js" />
      <Compile Include="Assets\scripts\firstaidkitcollect.js" />
      <Compile Include="Assets\scripts\firstaidkitspin.js" />
+     <Compile Include="Assets\scripts\playerStatus.js" />
      <Compile Include="Assets\scripts\swordspin.js" />
-     <Compile Include="Assets\terrain sound.js" />
+     <Compile Include="Assets\scripts\terrain sound.js" />
      <None Include="Assets\Standard Assets\Water (Pro Only)\Water4\Sources\Shaders\FX-SimpleWater4.shader" />
      <None Include="Assets\Standard Assets\Skyboxes\_skybox info.txt" />
      <None Include="Assets\villarger_A_girl\ReadMe.txt" />
